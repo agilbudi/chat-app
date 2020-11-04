@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "285739729443",
+    "firebase_url": "https://project-dummy-by-hide.firebaseio.com",
+    "project_id": "project-dummy-by-hide",
+    "storage_bucket": "project-dummy-by-hide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285739729443:android:109722170798c57f912796",
+        "android_client_info": {
+          "package_name": "com.hide.tutorialloginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285739729443-hhhndn3m73h4db6438rtdbad1uaa60na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWqFV_ptZSsJQK0_b9jI8f0wXBXGeTwLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285739729443-hhhndn3m73h4db6438rtdbad1uaa60na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285739729443:android:374f6fc108b3808e912796",
+        "android_client_info": {
+          "package_name": "com.uts.agilbudiprasetyo.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "285739729443-hhhndn3m73h4db6438rtdbad1uaa60na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWqFV_ptZSsJQK0_b9jI8f0wXBXGeTwLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "285739729443-hhhndn3m73h4db6438rtdbad1uaa60na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

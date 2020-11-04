@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <array name="email">
+        <item>ponconugroho66@gmail.com"</item>
+        <item>"dandi.ir20@gmail.com"</item>
+        <item>"anisalupita08@gmail.com"</item>
+        <item>"yanuarpriyanto.user@gmail.com"</item>
+        <item>"sintadevip8@gmail.com"</item>
+        <item>"saviranm19@gmail.com"</item>
+        <item>"dewiwulansari150601@gmail.com"</item>
+        <item>"Ajigustomo70@gmail.com"</item>
+        <item>"charisadessarii@gmail.com"</item>
+        <item>"fajarlistiyanto.tkj2@gmail.com"</item>
+        <item>"bintimukaromah692@gmail.com"</item>
+        <item>"bagasezzaprayudha@gmail.com"</item>
+        <item>"fifah250801@gmail.com"</item>
+        <item>"kurniawatisumaalis@gmail.com"</item>
+        <item>"ikhsansyahrizal23@gmail.com"</item>
+        <item>"rbysalam10@gmail.com"</item>
+        <item>"rizkarahmadhani13@gmail.com"</item>
+        <item>"arrio071@gmail.com"</item>
+        <item>"junizanugraheni@gmail.com"</item>
+        <item>"vningrum26@gmail.com"</item>
+        <item>"sandayazisprayogi12@gmail.com"</item>
+        <item>"arisrizky2402@gmail.com"</item>
+        <item>"siskapujiastuti487@gmail.com"</item>
+        <item>"surdiandi992@gmail.com"</item>
+        <item>"alfandisatriya@gmail.com"</item>
+    </array>
+    <array name="nama">
+        <item>"Ponco nugroho"</item>
+        <item>"Dandi Irwanto"</item>
+        <item>"Anisa Lupita Sari"</item>
+        <item>"Yanuar Priyanto"</item>
+        <item>"SINTA DEVI PUSPITASARI"</item>
+        <item>"Savira Nur Mutiara Al-Haq"</item>
+        <item>"DEWI WULANSARI"</item>
+        <item>"Aji gustomo putra"</item>
+        <item>"Charisa Dessari Bellinda Wulandari"</item>
+        <item>"Fajar Listiyanto"</item>
+        <item>"Binti Mukaromah"</item>
+        <item>"Bagas Ezza Prayudha"</item>
+        <item>"Nur khofifah"</item>
+        <item>"Kurniawati Sumaali"</item>
+        <item>"IKHSAN SYAHRIZAL"</item>
+        <item>"Fatah RobbySalam"</item>
+        <item>"Nur Riska Rahmadani"</item>
+        <item>"Arrio Saputra"</item>
+        <item>"Juniza Permata Nugraheni"</item>
+        <item>"Vivin Widya Ningrum"</item>
+        <item>"Sanday Azis Prayogi"</item>
+        <item>"Aris Rizky"</item>
+        <item>"Siska Puji Astuti"</item>
+        <item>"surdiandi"</item>
+        <item>"Muhammad Alfandi Satriyo"</item>
+    </array>
+    <array name="asal">
+        <item>"Jambi"</item>
+        <item>"Bandung"</item>
+        <item>"Bekasi"</item>
+        <item>"Bogor"</item>
+        <item>"Cimahi"</item>
+        <item>"Cirebon"</item>
+        <item>"Depok"</item>
+        <item>"Sukabumi"</item>
+        <item>"Tasikmalaya"</item>
+        <item>"Banjar"</item>
+        <item>"Magelang"</item>
+        <item>"Pekalongan"</item>
+        <item>"Purwokerto"</item>
+        <item>"Salatiga"</item>
+        <item>"Semarang"</item>
+        <item>"Surakarta"</item>
+        <item>"Tegal"</item>
+        <item>"Batu"</item>
+        <item>"Blitar"</item>
+        <item>"Kediri"</item>
+        <item>"Madiun"</item>
+        <item>"Malang"</item>
+        <item>"Mojokerto"</item>
+        <item>"Pasuruan"</item>
+        <item>"Probolinggo"</item>
+        <item>"Surabaya"</item>
+
+    </array>
+</resources>
